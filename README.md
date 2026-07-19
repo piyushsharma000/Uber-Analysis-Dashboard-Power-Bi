@@ -97,7 +97,7 @@ This project is an interactive **Uber Business Intelligence Dashboard** built us
 ![image alt](https://github.com/piyushsharma000/Uber-Analysis-Dashboard-Power-Bi/blob/main/Uber%20Rider%20Page.png?raw=true)
 
 ### Location Analysis
-![image alt]
+![image alt](https://github.com/piyushsharma000/Uber-Analysis-Dashboard-Power-Bi/blob/main/Uber%20Location%20Page.png?raw=true)
 
 ## 👤 Author
 **Piyush Sharma**
